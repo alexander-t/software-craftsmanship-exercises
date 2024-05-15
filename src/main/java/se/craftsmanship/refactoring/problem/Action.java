@@ -1,4 +1,4 @@
-package refactoring.problem;
+package se.craftsmanship.refactoring.problem;
 
 public class Action {
     public String title;

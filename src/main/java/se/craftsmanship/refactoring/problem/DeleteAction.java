@@ -1,4 +1,4 @@
-package refactoring.problem;
+package se.craftsmanship.refactoring.problem;
 
 import java.util.List;
 import java.util.Scanner;

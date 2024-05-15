@@ -1,4 +1,4 @@
-package refactoring.setup;
+package se.craftsmanship.refactoring.setup;
 
 import java.sql.Connection;
 import java.sql.DriverManager;
