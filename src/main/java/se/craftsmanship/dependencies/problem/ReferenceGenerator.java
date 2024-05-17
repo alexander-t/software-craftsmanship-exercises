@@ -1,4 +1,4 @@
-package se.craftsmanship.dependencies;
+package se.craftsmanship.dependencies.problem;
 
 import java.text.SimpleDateFormat;
 import java.util.Calendar;

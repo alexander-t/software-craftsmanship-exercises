@@ -1,4 +1,4 @@
-package se.craftsmanship.dependencies.model;
+package se.craftsmanship.dependencies.solution.model;
 
 import java.util.Date;
 import java.util.List;

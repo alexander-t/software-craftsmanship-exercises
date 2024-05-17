@@ -1,4 +1,4 @@
-package se.craftsmanship.dependencies.repository;
+package se.craftsmanship.dependencies.solution.repository;
 
 import java.sql.Connection;
 import java.sql.DriverManager;

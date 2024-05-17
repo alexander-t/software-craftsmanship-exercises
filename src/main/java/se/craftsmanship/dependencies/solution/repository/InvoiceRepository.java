@@ -1,6 +1,6 @@
-package se.craftsmanship.dependencies.repository;
+package se.craftsmanship.dependencies.solution.repository;
 
-import se.craftsmanship.dependencies.model.Invoice;
+import se.craftsmanship.dependencies.solution.model.Invoice;
 
 import java.sql.PreparedStatement;
 import java.text.SimpleDateFormat;

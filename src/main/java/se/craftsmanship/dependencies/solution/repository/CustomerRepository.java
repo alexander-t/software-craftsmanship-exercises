@@ -1,6 +1,6 @@
-package se.craftsmanship.dependencies.repository;
+package se.craftsmanship.dependencies.solution.repository;
 
-import se.craftsmanship.dependencies.model.Customer;
+import se.craftsmanship.dependencies.solution.model.Customer;
 
 import java.sql.PreparedStatement;
 import java.sql.ResultSet;

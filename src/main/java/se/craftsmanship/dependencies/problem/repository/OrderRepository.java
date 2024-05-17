@@ -1,7 +1,7 @@
-package se.craftsmanship.dependencies.repository;
+package se.craftsmanship.dependencies.problem.repository;
 
-import se.craftsmanship.dependencies.model.Order;
-import se.craftsmanship.dependencies.model.OrderItem;
+import se.craftsmanship.dependencies.problem.model.Order;
+import se.craftsmanship.dependencies.problem.model.OrderItem;
 
 import java.sql.PreparedStatement;
 import java.sql.ResultSet;
