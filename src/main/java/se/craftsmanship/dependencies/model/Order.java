@@ -21,6 +21,10 @@ public class Order {
         return id;
     }
 
+    public boolean isInvoiced() {
+        return invoiced;
+    }
+
     public List<OrderItem> getItems() {
         return items;
     }
